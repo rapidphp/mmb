@@ -1,14 +1,14 @@
 {
-    "name": "laravel/laravel",
+    "name": "rapid/mmb",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "The skeleton application for the Laravel and Mmb framework.",
+    "keywords": ["laravel", "framework", "mmb"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
         "laravel/framework": "^11.0",
         "laravel/tinker": "^2.9",
-        "mmb/plus": "dev-main",
+        "rapid/mmb-core": "dev-main",
         "rapid/laplus": "dev-main",
         "spatie/laravel-permission": "^6.0@dev"
     },
